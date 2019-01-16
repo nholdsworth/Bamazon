@@ -6,4 +6,6 @@ anyway, I tried twice to build this homework and I kept the commented out code. 
 
 I am including this screen shot to show how far I got and where it broke down.  I know it is something simple probably but I also know this weeks homework is much harder so I wanted to get started on that.
 
+Please use bamazon.js not bamazon2.js to see all my struggles
+
 ![Image of Bamazon](images/bamazon.jpg)
