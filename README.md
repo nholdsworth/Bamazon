@@ -9,3 +9,18 @@ I am including this screen shot to show how far I got and where it broke down.  
 Please use bamazon.js not bamazon2.js to see all my struggles
 
 ![Image of Bamazon](images/bamazon.jpg)
+
+
+Instructions
+
+Bamazon is a Node based CLI (command line interface).  
+
+1.  To use Bamazon you must first have Node installed on your computer along with git bash (if you have a Mac then the terminal works great)
+
+2.  Make sure to run npm install to get the dependencies however just in case the two that you will need in order for the program to work(ish) are mysql and inquirer.  Both of these can be found on the NPM website.
+
+3.  Once you have the required dependencies, simply run the command: node bamazon.js
+
+4.  You will be shown a table of available items.  Enter the ID number of the Item you wish to buy and the quanity.
+
+5.  From there, the app will be broken but you should be able to get at least that far.
